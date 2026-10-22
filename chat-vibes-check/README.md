@@ -1,13 +1,13 @@
 # Chat Vibes Check
 
-Mobile-first Webapp: Nutzer:innen laden einen exportierten WhatsApp-Chat (`.txt`) hoch, die Persona
+Mobile-first Webapp: Nutzer:innen laden einen exportierten WhatsApp-Chat (ZIP oder `.txt`) hoch, die Persona
 (Standard: „Frieda“) kommentiert Ton, Tempo und Balance und vergibt einen spielerischen Vibe-Score.
 
 Persona umbenennen oder umstylen: nur `persona.config.ts` ändern.
 
 ## Datenfluss
 
-1. Der Browser liest die Datei mit `File.text()` und parst sie (`lib/whatsapp.ts`). Die Rohdatei wird nie hochgeladen.
+1. Der Browser liest die Datei (`lib/chat-file.ts`). Eine ZIP wird gestreamt entpackt, nur die Chat-`.txt` (`_chat.txt` bzw. `WhatsApp Chat mit ….txt`); Fotos, Videos und Sprachnachrichten werden übersprungen, auch bei Exporten mit Medien. Danach parst `lib/whatsapp.ts` den Text. Die Datei wird nie hochgeladen.
 2. Der Browser berechnet Statistiken und eine Stichprobe (max. 200 Nachrichten à 300 Zeichen: Anfang, Ende, zufällige Mitte) und entfernt E-Mails, Telefonnummern und Links (`lib/prepare.ts`).
 3. Nur dieses Objekt geht per `POST /api/analyze`. Der Server prüft es mit zod (`lib/schema.ts`) und ruft Claude mit `messages.parse()` + `zodOutputFormat()` auf (`lib/analyze.ts`).
 4. Keine Datenbank, keine Speicherung, keine Chat-Inhalte in Logs. Pro IP gibt es ein einfaches Rate-Limit (`lib/rate-limit.ts`).
@@ -51,5 +51,5 @@ curl -s http://127.0.0.1:3000/api/health
 curl -I https://chat.ums-photo.de
 ```
 
-Danach im Browser auf dem Handy einen Test-Export hochladen, zum Beispiel `fixtures/beispiel-chat-android-de.txt`.
+Danach im Browser auf dem Handy einen echten Export (ZIP) oder `fixtures/beispiel-chat-android-de.txt` hochladen.
 In den DevTools (Netzwerk) sieht man, dass nur das JSON mit `totals`, `participants` und `sample` gesendet wird.

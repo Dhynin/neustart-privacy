@@ -1,14 +1,14 @@
 "use client";
 
 import { useCallback, useRef, useState } from "react";
+import { ChatFileError, readChatFile } from "@/lib/chat-file.ts";
 import { buildPayload } from "@/lib/prepare.ts";
 import type { AnalyzeRequest, VibeResult } from "@/lib/schema.ts";
 import { parseWhatsAppExport } from "@/lib/whatsapp.ts";
 
-const MAX_FILE_BYTES = 30 * 1024 * 1024;
-
 type State =
   | { step: "idle" }
+  | { step: "reading"; fileName: string }
   | { step: "ready"; fileName: string; payload: AnalyzeRequest }
   | { step: "loading"; fileName: string; payload: AnalyzeRequest }
   | { step: "done"; result: VibeResult }
@@ -28,28 +28,29 @@ export default function VibeCheck({ personaName }: { personaName: string }) {
 
   const handleFile = useCallback(async (file: File | undefined) => {
     if (!file) return;
-    if (!/\.txt$/i.test(file.name) && file.type !== "text/plain") {
-      setState({ step: "error", message: "Bitte eine .txt-Datei hochladen. Bei iPhone-Exporten erst die ZIP entpacken und die _chat.txt nehmen." });
-      return;
-    }
-    if (file.size > MAX_FILE_BYTES) {
-      setState({ step: "error", message: "Die Datei ist zu groß (max. 30 MB)." });
-      return;
-    }
+    setState({ step: "reading", fileName: file.name });
 
-    // Die Datei wird nur hier im Browser gelesen, nie hochgeladen.
-    const text = await file.text();
-    const messages = parseWhatsAppExport(text);
-    const payload = buildPayload(messages);
-
-    if (payload.participants.length === 0 || payload.sample.length < 5) {
+    // Die Datei (ZIP oder .txt) wird nur hier im Browser gelesen, nie hochgeladen.
+    let chat;
+    try {
+      chat = await readChatFile(file);
+    } catch (err) {
       setState({
         step: "error",
-        message: "Ich konnte in der Datei keinen WhatsApp-Chat erkennen. Exportiere den Chat bitte „ohne Medien“ und lade die .txt hoch.",
+        message: err instanceof ChatFileError ? err.message : "Die Datei konnte nicht gelesen werden.",
       });
       return;
     }
-    setState({ step: "ready", fileName: file.name, payload });
+
+    const payload = buildPayload(parseWhatsAppExport(chat.text));
+    if (payload.participants.length === 0 || payload.sample.length < 5) {
+      setState({
+        step: "error",
+        message: "Ich konnte in der Datei keinen WhatsApp-Chat erkennen. Lade bitte die ZIP oder .txt aus „Chat exportieren“ hoch.",
+      });
+      return;
+    }
+    setState({ step: "ready", fileName: chat.source === file.name ? file.name : `${file.name} → ${chat.source}`, payload });
   }, []);
 
   const analyze = useCallback(async () => {
@@ -79,6 +80,18 @@ export default function VibeCheck({ personaName }: { personaName: string }) {
   };
 
   if (state.step === "done") return <Result result={state.result} personaName={personaName} onReset={reset} />;
+
+  if (state.step === "reading") {
+    return (
+      <section className="card stack center" aria-live="polite" aria-busy="true">
+        <div className="spinner" aria-hidden="true" />
+        <p>
+          <strong>Chat wird auf deinem Gerät gelesen …</strong>
+        </p>
+        <p className="muted small">{state.fileName}</p>
+      </section>
+    );
+  }
 
   if (state.step === "loading") {
     return (
@@ -120,7 +133,7 @@ export default function VibeCheck({ personaName }: { personaName: string }) {
         <details>
           <summary>Was wird gesendet?</summary>
           <p className="muted small">
-            Nicht deine Datei. Nur diese Statistiken und eine Stichprobe von {payload.sample.length} gekürzten Nachrichten
+            Nicht deine Datei und keine Medien. Nur diese Statistiken und eine Stichprobe von {payload.sample.length} gekürzten Nachrichten
             (max. 300 Zeichen), in denen E-Mail-Adressen, Telefonnummern und Links bereits entfernt sind. Nichts wird
             gespeichert.
           </p>
@@ -161,12 +174,12 @@ export default function VibeCheck({ personaName }: { personaName: string }) {
         <input
           ref={inputRef}
           type="file"
-          accept=".txt,text/plain"
+          accept=".zip,.txt,application/zip,application/x-zip-compressed,text/plain"
           onChange={(e) => handleFile(e.target.files?.[0])}
         />
-        <span className="icon" aria-hidden="true">📄</span>
-        <strong>WhatsApp-Chat auswählen</strong>
-        <span className="muted small">.txt-Export · wird nur auf deinem Gerät gelesen</span>
+        <span className="icon" aria-hidden="true">📦</span>
+        <strong>WhatsApp-Export auswählen</strong>
+        <span className="muted small">ZIP oder .txt · wird nur auf deinem Gerät gelesen</span>
       </label>
 
       <section className="card stack">
@@ -174,11 +187,11 @@ export default function VibeCheck({ personaName }: { personaName: string }) {
         <ol className="steps">
           <li>
             <span className="num">1</span>
-            <span>Chat in WhatsApp öffnen → Menü → „Chat exportieren“ → „Ohne Medien“.</span>
+            <span>Chat in WhatsApp öffnen → „Chat exportieren“ → am besten „Ohne Medien“ → in „Dateien“ sichern.</span>
           </li>
           <li>
             <span className="num">2</span>
-            <span>Die .txt-Datei hier auswählen. Sie bleibt auf deinem Gerät.</span>
+            <span>Die ZIP hier auswählen, entpacken ist nicht nötig. Sie bleibt auf deinem Gerät.</span>
           </li>
           <li>
             <span className="num">3</span>
@@ -188,8 +201,9 @@ export default function VibeCheck({ personaName }: { personaName: string }) {
         <details>
           <summary>Wo finde ich den Export?</summary>
           <ul className="muted small">
-            <li>Android: Chat öffnen → ⋮ → Mehr → Chat exportieren → Ohne Medien.</li>
-            <li>iPhone: Chat öffnen → Name antippen → Chat exportieren → Ohne Medien. Die ZIP in „Dateien“ entpacken und die _chat.txt wählen.</li>
+            <li>Android: Chat öffnen → ⋮ → Mehr → Chat exportieren → Ohne Medien → in „Dateien“ oder Drive speichern.</li>
+            <li>iPhone: Chat öffnen → Name antippen → Chat exportieren → Ohne Medien → „In Dateien sichern“.</li>
+            <li>Mit Medien geht auch: Fotos, Videos und Sprachnachrichten werden übersprungen, nur der Text wird gelesen.</li>
           </ul>
         </details>
       </section>
