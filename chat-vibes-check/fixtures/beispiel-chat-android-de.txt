@@ -1,0 +1,445 @@
+05.06.23, 21:15 - Nachrichten und Anrufe sind Ende-zu-Ende-verschlüsselt. Niemand außerhalb dieses Chats kann sie lesen.
+05.06.23, 22:00 - Max: Noch nicht, kommt heute Abend
+06.06.23, 11:20 - Lena: Das war so ein schöner Abend ❤️
+06.06.23, 11:21 - Lena: Hast du die Serie weitergeschaut??
+06.06.23, 12:51 - Lena: Das war so ein schöner Abend ❤️
+06.06.23, 12:52 - Lena: Hast du die Serie weitergeschaut??
+07.06.23, 02:12 - Max: Haha 😄
+07.06.23, 02:24 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+07.06.23, 02:29 - Lena: Bin gleich da!
+07.06.23, 02:34 - Lena: Bin gleich da!
+07.06.23, 09:14 - Lena: Lust am Samstag auf den Flohmarkt?
+07.06.23, 09:19 - Lena: Okay okay, du hast gewonnen 🙈
+07.06.23, 15:59 - Lena: Haha nein, wirklich? 😂
+07.06.23, 16:39 - Lena: Ruf mich gern an: 0171 2345678
+07.06.23, 16:41 - Max: Fand ich auch!
+07.06.23, 17:21 - Max: Fand ich auch!
+07.06.23, 17:23 - Max: Haha 😄
+07.06.23, 17:24 - Max: Haha 😄
+08.06.23, 00:04 - Lena: Hast du die Serie weitergeschaut??
+08.06.23, 06:44 - Lena: Das war so ein schöner Abend ❤️
+08.06.23, 06:56 - Lena: Lust am Samstag auf den Flohmarkt?
+08.06.23, 13:36 - Lena: Ruf mich gern an: 0171 2345678
+08.06.23, 13:39 - Max: Bin unterwegs
+08.06.23, 14:19 - Max: Noch nicht, kommt heute Abend
+08.06.23, 14:22 - Lena: <Medien ausgeschlossen>
+08.06.23, 14:25 - Lena: Hey du 😊 wie war dein Tag?
+08.06.23, 15:05 - Max: Bin unterwegs
+08.06.23, 15:06 - Lena: Bin gleich da!
+08.06.23, 15:08 - Lena: Hast du die Serie weitergeschaut??
+08.06.23, 15:13 - Lena: Haha nein, wirklich? 😂
+08.06.23, 15:14 - Lena: Bin gleich da!
+08.06.23, 15:15 - Lena: Lust am Samstag auf den Flohmarkt?
+08.06.23, 15:27 - Max: Fand ich auch!
+08.06.23, 22:07 - Max: Schick dir den Link: https://example.com/flohmarkt
+08.06.23, 22:10 - Lena: Schlaf gut 🌙
+08.06.23, 22:13 - Lena: Lust am Samstag auf den Flohmarkt?
+08.06.23, 22:16 - Max: Ganz okay, viel Arbeit
+08.06.23, 22:18 - Max: Haha 😄
+08.06.23, 22:58 - Max: Bin unterwegs
+08.06.23, 23:03 - Max: Samstag klingt gut, wann?
+08.06.23, 23:08 - Lena: Ruf mich gern an: 0171 2345678
+und noch was in einer zweiten Zeile
+08.06.23, 23:09 - Max: Schick dir den Link: https://example.com/flohmarkt
+08.06.23, 23:49 - Lena: Schlaf gut 🌙
+08.06.23, 23:54 - Lena: Ruf mich gern an: 0171 2345678
+08.06.23, 23:55 - Lena: Schlaf gut 🌙
+08.06.23, 23:57 - Max: Samstag klingt gut, wann?
+09.06.23, 00:37 - Lena: Hast du die Serie weitergeschaut??
+09.06.23, 00:39 - Max: Jo
+und noch was in einer zweiten Zeile
+09.06.23, 07:19 - Max: Jo
+09.06.23, 13:59 - Max: Gute Nacht
+09.06.23, 14:00 - Lena: Haha nein, wirklich? 😂
+09.06.23, 15:30 - Max: Samstag klingt gut, wann?
+09.06.23, 15:42 - Lena: Bin gleich da!
+09.06.23, 15:54 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+09.06.23, 22:34 - Max: Bin unterwegs
+10.06.23, 11:54 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+und noch was in einer zweiten Zeile
+10.06.23, 18:34 - Max: <Medien ausgeschlossen>
+10.06.23, 18:37 - Lena: Das war so ein schöner Abend ❤️
+10.06.23, 19:17 - Max: Bin unterwegs
+10.06.23, 19:19 - Max: Ganz okay, viel Arbeit
+10.06.23, 19:21 - Lena: <Medien ausgeschlossen>
+10.06.23, 19:23 - Lena: Das war so ein schöner Abend ❤️
+10.06.23, 19:28 - Max: Schick dir den Link: https://example.com/flohmarkt
+11.06.23, 08:48 - Max: Bin unterwegs
+11.06.23, 09:00 - Max: Samstag klingt gut, wann?
+11.06.23, 09:02 - Lena: Schlaf gut 🌙
+11.06.23, 09:04 - Lena: Okay okay, du hast gewonnen 🙈
+11.06.23, 09:07 - Max: Gute Nacht
+11.06.23, 15:47 - Lena: Haha nein, wirklich? 😂
+11.06.23, 15:52 - Lena: Hast du die Serie weitergeschaut??
+11.06.23, 17:22 - Lena: Schlaf gut 🌙
+11.06.23, 18:02 - Lena: Ruf mich gern an: 0171 2345678
+12.06.23, 07:22 - Max: Bin unterwegs
+12.06.23, 07:27 - Max: Klar
+12.06.23, 07:30 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+12.06.23, 07:42 - Lena: Bin gleich da!
+12.06.23, 08:22 - Lena: Hey du 😊 wie war dein Tag?
+12.06.23, 08:24 - Lena: Hey du 😊 wie war dein Tag?
+12.06.23, 08:26 - Max: Samstag klingt gut, wann?
+12.06.23, 15:06 - Lena: Bin gleich da!
+12.06.23, 15:09 - Lena: Lust am Samstag auf den Flohmarkt?
+12.06.23, 15:21 - Lena: Lust am Samstag auf den Flohmarkt?
+13.06.23, 04:41 - Max: Haha 😄
+13.06.23, 04:53 - Lena: Hey du 😊 wie war dein Tag?
+und noch was in einer zweiten Zeile
+13.06.23, 04:54 - Max: Bin unterwegs
+13.06.23, 04:59 - Max: Klar
+13.06.23, 11:39 - Lena: Hast du die Serie weitergeschaut??
+13.06.23, 11:44 - Max: Gute Nacht
+13.06.23, 11:47 - Lena: Schlaf gut 🌙
+13.06.23, 11:48 - Lena: Okay okay, du hast gewonnen 🙈
+13.06.23, 13:18 - Max: Haha 😄
+13.06.23, 13:19 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+und noch was in einer zweiten Zeile
+13.06.23, 13:59 - Max: Bin unterwegs
+und noch was in einer zweiten Zeile
+13.06.23, 14:11 - Lena: <Medien ausgeschlossen>
+13.06.23, 20:51 - Lena: Lust am Samstag auf den Flohmarkt?
+13.06.23, 20:53 - Lena: Haha nein, wirklich? 😂
+13.06.23, 22:23 - Lena: Okay okay, du hast gewonnen 🙈
+14.06.23, 11:43 - Max: Jo
+14.06.23, 13:13 - Max: Schick dir den Link: https://example.com/flohmarkt
+14.06.23, 13:16 - Lena: Bin gleich da!
+15.06.23, 02:36 - Lena: Bin gleich da!
+15.06.23, 02:37 - Max: Fand ich auch!
+15.06.23, 02:42 - Lena: Hey du 😊 wie war dein Tag?
+15.06.23, 02:44 - Lena: Ruf mich gern an: 0171 2345678
+15.06.23, 16:04 - Max: Schick dir den Link: https://example.com/flohmarkt
+15.06.23, 16:06 - Max: Bin unterwegs
+16.06.23, 05:26 - Lena: Ruf mich gern an: 0171 2345678
+16.06.23, 05:38 - Lena: Lust am Samstag auf den Flohmarkt?
+16.06.23, 12:18 - Lena: Hast du die Serie weitergeschaut??
+16.06.23, 12:30 - Max: Fand ich auch!
+16.06.23, 12:33 - Lena: Okay okay, du hast gewonnen 🙈
+16.06.23, 19:13 - Lena: Okay okay, du hast gewonnen 🙈
+16.06.23, 19:18 - Max: Haha 😄
+17.06.23, 01:58 - Lena: Haha nein, wirklich? 😂
+17.06.23, 02:10 - Max: <Medien ausgeschlossen>
+17.06.23, 15:30 - Max: Schick dir den Link: https://example.com/flohmarkt
+17.06.23, 15:35 - Lena: Haha nein, wirklich? 😂
+17.06.23, 16:15 - Lena: Bin gleich da!
+17.06.23, 16:55 - Lena: Ruf mich gern an: 0171 2345678
+17.06.23, 23:35 - Max: Noch nicht, kommt heute Abend
+18.06.23, 00:15 - Lena: Haha nein, wirklich? 😂
+und noch was in einer zweiten Zeile
+18.06.23, 00:55 - Max: Klar
+18.06.23, 00:56 - Max: Haha 😄
+18.06.23, 02:26 - Max: Fand ich auch!
+18.06.23, 02:38 - Max: Haha 😄
+18.06.23, 02:50 - Max: Jo
+18.06.23, 16:10 - Lena: Schlaf gut 🌙
+18.06.23, 16:11 - Max: Noch nicht, kommt heute Abend
+19.06.23, 05:31 - Lena: Haha nein, wirklich? 😂
+19.06.23, 12:11 - Max: Jo
+19.06.23, 12:12 - Max: Bin unterwegs
+19.06.23, 12:52 - Lena: Okay okay, du hast gewonnen 🙈
+19.06.23, 13:04 - Lena: Lust am Samstag auf den Flohmarkt?
+19.06.23, 14:34 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+19.06.23, 21:14 - Lena: Ruf mich gern an: 0171 2345678
+20.06.23, 03:54 - Lena: Bin gleich da!
+20.06.23, 04:34 - Lena: Schlaf gut 🌙
+20.06.23, 04:39 - Max: Noch nicht, kommt heute Abend
+20.06.23, 04:44 - Lena: Schlaf gut 🌙
+20.06.23, 05:24 - Lena: Bin gleich da!
+20.06.23, 05:29 - Lena: Lust am Samstag auf den Flohmarkt?
+20.06.23, 06:59 - Max: Ganz okay, viel Arbeit
+20.06.23, 13:39 - Max: <Medien ausgeschlossen>
+21.06.23, 02:59 - Max: Schick dir den Link: https://example.com/flohmarkt
+21.06.23, 03:02 - Lena: Haha nein, wirklich? 😂
+21.06.23, 09:42 - Lena: <Medien ausgeschlossen>
+21.06.23, 09:43 - Max: Haha 😄
+21.06.23, 23:03 - Max: Klar
+21.06.23, 23:08 - Lena: Lust am Samstag auf den Flohmarkt?
+und noch was in einer zweiten Zeile
+22.06.23, 12:28 - Lena: Ruf mich gern an: 0171 2345678
+22.06.23, 12:33 - Lena: Lust am Samstag auf den Flohmarkt?
+und noch was in einer zweiten Zeile
+22.06.23, 14:03 - Max: Haha 😄
+22.06.23, 15:33 - Lena: Lust am Samstag auf den Flohmarkt?
+22.06.23, 15:38 - Lena: Schlaf gut 🌙
+22.06.23, 17:08 - Lena: Okay okay, du hast gewonnen 🙈
+22.06.23, 17:13 - Lena: Lust am Samstag auf den Flohmarkt?
+22.06.23, 17:18 - Lena: Okay okay, du hast gewonnen 🙈
+22.06.23, 23:58 - Max: Samstag klingt gut, wann?
+22.06.23, 23:59 - Max: Jo
+23.06.23, 00:00 - Max: Jo
+23.06.23, 00:03 - Lena: Schlaf gut 🌙
+23.06.23, 00:06 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+23.06.23, 06:46 - Lena: Hast du die Serie weitergeschaut??
+23.06.23, 13:26 - Lena: Hey du 😊 wie war dein Tag?
+23.06.23, 14:56 - Max: Klar
+23.06.23, 16:26 - Lena: Okay okay, du hast gewonnen 🙈
+23.06.23, 16:27 - Max: Samstag klingt gut, wann?
+23.06.23, 16:32 - Lena: Ruf mich gern an: 0171 2345678
+23.06.23, 18:02 - Lena: Hey du 😊 wie war dein Tag?
+23.06.23, 18:03 - Lena: Haha nein, wirklich? 😂
+23.06.23, 18:15 - Lena: Das war so ein schöner Abend ❤️
+23.06.23, 18:55 - Max: <Medien ausgeschlossen>
+23.06.23, 18:57 - Lena: Lust am Samstag auf den Flohmarkt?
+24.06.23, 01:37 - Max: Noch nicht, kommt heute Abend
+24.06.23, 08:17 - Lena: Ruf mich gern an: 0171 2345678
+24.06.23, 08:29 - Max: Jo
+24.06.23, 09:09 - Lena: Das war so ein schöner Abend ❤️
+24.06.23, 09:12 - Lena: Haha nein, wirklich? 😂
+24.06.23, 22:32 - Lena: Hast du die Serie weitergeschaut??
+24.06.23, 22:44 - Max: Samstag klingt gut, wann?
+25.06.23, 05:24 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+25.06.23, 05:29 - Max: Klar
+25.06.23, 05:41 - Lena: Schlaf gut 🌙
+25.06.23, 12:21 - Lena: Lust am Samstag auf den Flohmarkt?
+25.06.23, 12:26 - Lena: Hast du die Serie weitergeschaut??
+26.06.23, 01:46 - Lena: Haha nein, wirklich? 😂
+26.06.23, 01:48 - Lena: Lust am Samstag auf den Flohmarkt?
+26.06.23, 01:49 - Max: Samstag klingt gut, wann?
+26.06.23, 01:54 - Max: Gute Nacht
+26.06.23, 02:06 - Max: Ganz okay, viel Arbeit
+26.06.23, 02:46 - Lena: Schlaf gut 🌙
+und noch was in einer zweiten Zeile
+26.06.23, 02:58 - Lena: Lust am Samstag auf den Flohmarkt?
+26.06.23, 04:28 - Max: Jo
+26.06.23, 04:29 - Max: Bin unterwegs
+26.06.23, 05:59 - Max: Jo
+26.06.23, 06:02 - Lena: Okay okay, du hast gewonnen 🙈
+26.06.23, 06:14 - Lena: Hey du 😊 wie war dein Tag?
+26.06.23, 06:54 - Lena: Hey du 😊 wie war dein Tag?
+26.06.23, 07:34 - Max: Noch nicht, kommt heute Abend
+26.06.23, 07:35 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+26.06.23, 09:05 - Lena: Schlaf gut 🌙
+26.06.23, 09:06 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+26.06.23, 09:08 - Lena: Schlaf gut 🌙
+26.06.23, 09:48 - Lena: Bin gleich da!
+26.06.23, 11:18 - Lena: Lust am Samstag auf den Flohmarkt?
+26.06.23, 11:19 - Max: Schick dir den Link: https://example.com/flohmarkt
+26.06.23, 12:49 - Lena: Das war so ein schöner Abend ❤️
+26.06.23, 12:54 - Max: Fand ich auch!
+26.06.23, 12:57 - Lena: Hey du 😊 wie war dein Tag?
+26.06.23, 14:27 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+26.06.23, 14:32 - Lena: Bin gleich da!
+26.06.23, 15:12 - Lena: Das war so ein schöner Abend ❤️
+26.06.23, 15:24 - Max: Haha 😄
+26.06.23, 16:04 - Lena: Ruf mich gern an: 0171 2345678
+und noch was in einer zweiten Zeile
+26.06.23, 22:44 - Lena: Ruf mich gern an: 0171 2345678
+27.06.23, 05:24 - Max: Schick dir den Link: https://example.com/flohmarkt
+27.06.23, 06:04 - Lena: Haha nein, wirklich? 😂
+27.06.23, 06:05 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+27.06.23, 19:25 - Lena: Bin gleich da!
+27.06.23, 19:28 - Lena: Haha nein, wirklich? 😂
+27.06.23, 19:30 - Lena: Ruf mich gern an: 0171 2345678
+27.06.23, 19:33 - Max: Samstag klingt gut, wann?
+27.06.23, 19:45 - Lena: Das war so ein schöner Abend ❤️
+27.06.23, 19:48 - Lena: Ruf mich gern an: 0171 2345678
+28.06.23, 09:08 - Lena: Schlaf gut 🌙
+28.06.23, 09:11 - Max: Haha 😄
+28.06.23, 09:14 - Max: Haha 😄
+28.06.23, 09:54 - Max: Schick dir den Link: https://example.com/flohmarkt
+28.06.23, 09:56 - Lena: Bin gleich da!
+28.06.23, 10:36 - Lena: Schlaf gut 🌙
+28.06.23, 10:38 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+28.06.23, 10:50 - Max: Haha 😄
+28.06.23, 11:30 - Max: Ganz okay, viel Arbeit
+28.06.23, 13:00 - Lena: Schlaf gut 🌙
+28.06.23, 13:05 - Max: <Medien ausgeschlossen>
+und noch was in einer zweiten Zeile
+28.06.23, 13:45 - Lena: Bin gleich da!
+28.06.23, 13:57 - Lena: Lust am Samstag auf den Flohmarkt?
+28.06.23, 14:00 - Lena: Lust am Samstag auf den Flohmarkt?
+28.06.23, 14:02 - Max: Haha 😄
+28.06.23, 14:03 - Lena: Bin gleich da!
+28.06.23, 20:43 - Max: Bin unterwegs
+28.06.23, 20:44 - Lena: <Medien ausgeschlossen>
+28.06.23, 20:47 - Lena: <Medien ausgeschlossen>
+28.06.23, 20:52 - Lena: Lust am Samstag auf den Flohmarkt?
+28.06.23, 22:22 - Max: Jo
+28.06.23, 22:23 - Max: Schick dir den Link: https://example.com/flohmarkt
+und noch was in einer zweiten Zeile
+28.06.23, 23:53 - Max: Schick dir den Link: https://example.com/flohmarkt
+28.06.23, 23:56 - Lena: Haha nein, wirklich? 😂
+28.06.23, 23:58 - Lena: Okay okay, du hast gewonnen 🙈
+29.06.23, 13:18 - Max: Bin unterwegs
+29.06.23, 13:23 - Lena: <Medien ausgeschlossen>
+29.06.23, 13:28 - Max: Samstag klingt gut, wann?
+29.06.23, 14:08 - Lena: Hast du die Serie weitergeschaut??
+30.06.23, 03:28 - Lena: Bin gleich da!
+30.06.23, 04:58 - Max: Samstag klingt gut, wann?
+30.06.23, 05:03 - Lena: Das war so ein schöner Abend ❤️
+30.06.23, 05:06 - Lena: Haha nein, wirklich? 😂
+30.06.23, 05:46 - Max: Ganz okay, viel Arbeit
+30.06.23, 05:47 - Max: Ganz okay, viel Arbeit
+30.06.23, 06:27 - Lena: Bin gleich da!
+30.06.23, 07:57 - Lena: Lust am Samstag auf den Flohmarkt?
+und noch was in einer zweiten Zeile
+30.06.23, 07:59 - Max: Haha 😄
+30.06.23, 08:04 - Lena: Schlaf gut 🌙
+und noch was in einer zweiten Zeile
+30.06.23, 08:16 - Max: Ganz okay, viel Arbeit
+30.06.23, 08:56 - Max: Fand ich auch!
+30.06.23, 08:57 - Max: Ganz okay, viel Arbeit
+30.06.23, 09:37 - Lena: Hey du 😊 wie war dein Tag?
+30.06.23, 09:39 - Lena: Okay okay, du hast gewonnen 🙈
+und noch was in einer zweiten Zeile
+30.06.23, 09:44 - Lena: <Medien ausgeschlossen>
+30.06.23, 16:24 - Max: Jo
+01.07.23, 05:44 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+01.07.23, 05:49 - Lena: Haha nein, wirklich? 😂
+01.07.23, 12:29 - Max: Bin unterwegs
+01.07.23, 13:09 - Lena: Hast du die Serie weitergeschaut??
+01.07.23, 14:39 - Max: Ganz okay, viel Arbeit
+01.07.23, 16:09 - Max: Bin unterwegs
+01.07.23, 16:14 - Max: Jo
+01.07.23, 16:15 - Lena: Schlaf gut 🌙
+01.07.23, 22:55 - Max: Gute Nacht
+01.07.23, 23:07 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+01.07.23, 23:12 - Lena: Okay okay, du hast gewonnen 🙈
+01.07.23, 23:15 - Max: Samstag klingt gut, wann?
+01.07.23, 23:55 - Lena: Schlaf gut 🌙
+01.07.23, 23:57 - Lena: Haha nein, wirklich? 😂
+02.07.23, 00:00 - Max: Haha 😄
+02.07.23, 00:02 - Lena: Hast du die Serie weitergeschaut??
+und noch was in einer zweiten Zeile
+02.07.23, 01:32 - Max: Bin unterwegs
+02.07.23, 01:33 - Lena: Das war so ein schöner Abend ❤️
+und noch was in einer zweiten Zeile
+02.07.23, 01:38 - Max: Noch nicht, kommt heute Abend
+02.07.23, 03:08 - Max: Fand ich auch!
+02.07.23, 03:10 - Lena: Schlaf gut 🌙
+02.07.23, 04:40 - Lena: Hast du die Serie weitergeschaut??
+02.07.23, 04:52 - Max: Schick dir den Link: https://example.com/flohmarkt
+02.07.23, 06:22 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+02.07.23, 06:23 - Lena: Ruf mich gern an: 0171 2345678
+02.07.23, 06:35 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+02.07.23, 06:40 - Lena: Haha nein, wirklich? 😂
+02.07.23, 06:45 - Max: <Medien ausgeschlossen>
+02.07.23, 07:25 - Lena: Hast du die Serie weitergeschaut??
+02.07.23, 07:28 - Lena: Haha nein, wirklich? 😂
+02.07.23, 07:29 - Lena: Hast du die Serie weitergeschaut??
+und noch was in einer zweiten Zeile
+02.07.23, 08:59 - Max: Gute Nacht
+02.07.23, 09:11 - Max: Bin unterwegs
+02.07.23, 10:41 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+02.07.23, 10:46 - Lena: Bin gleich da!
+02.07.23, 10:49 - Lena: Hast du die Serie weitergeschaut??
+03.07.23, 00:09 - Max: Schick dir den Link: https://example.com/flohmarkt
+03.07.23, 00:21 - Max: Haha 😄
+03.07.23, 07:01 - Lena: Okay okay, du hast gewonnen 🙈
+03.07.23, 07:41 - Lena: Hast du die Serie weitergeschaut??
+03.07.23, 08:21 - Lena: Okay okay, du hast gewonnen 🙈
+03.07.23, 09:01 - Max: Jo
+03.07.23, 09:02 - Max: Samstag klingt gut, wann?
+03.07.23, 09:14 - Max: Fand ich auch!
+03.07.23, 15:54 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+04.07.23, 05:14 - Lena: Das war so ein schöner Abend ❤️
+04.07.23, 18:34 - Max: Haha 😄
+05.07.23, 07:54 - Lena: Ruf mich gern an: 0171 2345678
+05.07.23, 07:56 - Lena: Lust am Samstag auf den Flohmarkt?
+05.07.23, 21:16 - Lena: Ruf mich gern an: 0171 2345678
+05.07.23, 21:21 - Lena: Bin gleich da!
+05.07.23, 21:24 - Max: Schick dir den Link: https://example.com/flohmarkt
+05.07.23, 21:36 - Max: Gute Nacht
+05.07.23, 21:38 - Lena: Schlaf gut 🌙
+und noch was in einer zweiten Zeile
+05.07.23, 21:39 - Max: Gute Nacht
+06.07.23, 04:19 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+06.07.23, 04:22 - Lena: Schlaf gut 🌙
+06.07.23, 17:42 - Max: Samstag klingt gut, wann?
+06.07.23, 17:54 - Lena: Okay okay, du hast gewonnen 🙈
+06.07.23, 19:24 - Lena: Okay okay, du hast gewonnen 🙈
+06.07.23, 19:29 - Max: Klar
+06.07.23, 19:41 - Lena: Haha nein, wirklich? 😂
+und noch was in einer zweiten Zeile
+07.07.23, 09:01 - Max: Bin unterwegs
+07.07.23, 09:03 - Lena: Lust am Samstag auf den Flohmarkt?
+07.07.23, 09:04 - Max: Bin unterwegs
+07.07.23, 09:06 - Lena: Ruf mich gern an: 0171 2345678
+07.07.23, 09:09 - Max: Noch nicht, kommt heute Abend
+07.07.23, 09:10 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+07.07.23, 09:22 - Max: Jo
+07.07.23, 10:52 - Lena: Das war so ein schöner Abend ❤️
+08.07.23, 00:12 - Lena: Haha nein, wirklich? 😂
+08.07.23, 01:42 - Lena: Hey du 😊 wie war dein Tag?
+08.07.23, 01:45 - Lena: Hast du die Serie weitergeschaut??
+08.07.23, 08:25 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+08.07.23, 08:26 - Max: Klar
+08.07.23, 08:31 - Max: Jo
+08.07.23, 08:36 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+08.07.23, 08:39 - Max: Klar
+08.07.23, 15:19 - Lena: Okay okay, du hast gewonnen 🙈
+08.07.23, 15:20 - Lena: Hey du 😊 wie war dein Tag?
+08.07.23, 15:22 - Lena: Okay okay, du hast gewonnen 🙈
+08.07.23, 22:02 - Max: Gute Nacht
+09.07.23, 04:42 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+09.07.23, 05:22 - Max: Jo
+09.07.23, 06:52 - Max: Schick dir den Link: https://example.com/flohmarkt
+09.07.23, 07:32 - Lena: Hey du 😊 wie war dein Tag?
+09.07.23, 08:12 - Max: Ganz okay, viel Arbeit
+09.07.23, 08:24 - Lena: Lust am Samstag auf den Flohmarkt?
+09.07.23, 08:29 - Max: Haha 😄
+09.07.23, 08:41 - Lena: Das war so ein schöner Abend ❤️
+09.07.23, 08:42 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+09.07.23, 08:45 - Lena: Bin gleich da!
+09.07.23, 09:25 - Lena: Bin gleich da!
+09.07.23, 09:30 - Max: Samstag klingt gut, wann?
+09.07.23, 11:00 - Lena: Lust am Samstag auf den Flohmarkt?
+09.07.23, 11:01 - Max: Schick dir den Link: https://example.com/flohmarkt
+09.07.23, 11:41 - Max: Samstag klingt gut, wann?
+09.07.23, 11:53 - Max: Bin unterwegs
+09.07.23, 11:58 - Lena: Lust am Samstag auf den Flohmarkt?
+09.07.23, 12:10 - Lena: Das war so ein schöner Abend ❤️
+09.07.23, 12:13 - Lena: Ruf mich gern an: 0171 2345678
+09.07.23, 18:53 - Max: Jo
+und noch was in einer zweiten Zeile
+09.07.23, 19:05 - Lena: Hey du 😊 wie war dein Tag?
+10.07.23, 01:45 - Lena: Lust am Samstag auf den Flohmarkt?
+10.07.23, 03:15 - Lena: Ruf mich gern an: 0171 2345678
+10.07.23, 03:18 - Lena: Hey du 😊 wie war dein Tag?
+10.07.23, 04:48 - Lena: Hey du 😊 wie war dein Tag?
+10.07.23, 11:28 - Lena: Haha nein, wirklich? 😂
+10.07.23, 11:30 - Max: Klar
+10.07.23, 11:32 - Max: Bin unterwegs
+10.07.23, 11:35 - Lena: Lust am Samstag auf den Flohmarkt?
+10.07.23, 11:36 - Max: Gute Nacht
+10.07.23, 11:37 - Max: Ganz okay, viel Arbeit
+10.07.23, 18:17 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+und noch was in einer zweiten Zeile
+10.07.23, 18:22 - Max: Haha 😄
+10.07.23, 18:24 - Lena: Schlaf gut 🌙
+11.07.23, 01:04 - Lena: Ruf mich gern an: 0171 2345678
+11.07.23, 01:05 - Lena: Lust am Samstag auf den Flohmarkt?
+11.07.23, 01:10 - Lena: Das war so ein schöner Abend ❤️
+11.07.23, 01:13 - Max: Klar
+11.07.23, 01:14 - Max: Schick dir den Link: https://example.com/flohmarkt
+11.07.23, 01:19 - Lena: Schlaf gut 🌙
+11.07.23, 01:20 - Lena: Ruf mich gern an: 0171 2345678
+11.07.23, 01:23 - Lena: Hast du die Serie weitergeschaut??
+und noch was in einer zweiten Zeile
+11.07.23, 01:35 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+11.07.23, 08:15 - Max: Klar
+11.07.23, 08:20 - Lena: Okay okay, du hast gewonnen 🙈
+11.07.23, 09:00 - Lena: Okay okay, du hast gewonnen 🙈
+11.07.23, 09:02 - Lena: Hast du die Serie weitergeschaut??
+11.07.23, 09:14 - Lena: Hey du 😊 wie war dein Tag?
+11.07.23, 22:34 - Lena: Hey du 😊 wie war dein Tag?
+11.07.23, 22:46 - Lena: Hast du die Serie weitergeschaut??
+11.07.23, 22:58 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+11.07.23, 23:03 - Max: Samstag klingt gut, wann?
+12.07.23, 05:43 - Max: Jo
+12.07.23, 05:48 - Lena: <Medien ausgeschlossen>
+12.07.23, 19:08 - Lena: Hey du 😊 wie war dein Tag?
+12.07.23, 19:20 - Max: Schick dir den Link: https://example.com/flohmarkt
+13.07.23, 02:00 - Lena: Okay okay, du hast gewonnen 🙈
+13.07.23, 02:40 - Lena: Schlaf gut 🌙
+13.07.23, 03:20 - Lena: Ruf mich gern an: 0171 2345678
+13.07.23, 04:00 - Max: Gute Nacht
+13.07.23, 04:01 - Lena: Haha nein, wirklich? 😂
+13.07.23, 17:21 - Lena: Bin gleich da!
+13.07.23, 17:23 - Lena: Ich hab heute den besten Kaffee meines Lebens getrunken ☕
+14.07.23, 06:43 - Max: <Medien ausgeschlossen>
+14.07.23, 06:48 - Lena: Das war so ein schöner Abend ❤️
+14.07.23, 06:53 - Max: Klar
+14.07.23, 06:56 - Lena: Haha nein, wirklich? 😂
+14.07.23, 07:08 - Lena: Haha nein, wirklich? 😂
+14.07.23, 07:13 - Max: Jo

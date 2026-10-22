@@ -1,0 +1,12 @@
+# Caddy holt und erneuert das Let's-Encrypt-Zertifikat automatisch.
+chat.ums-photo.de {
+	encode zstd gzip
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		-Server
+	}
+
+	# Kein Access-Log: Request-Bodies enthalten Chat-Ausschnitte.
+	reverse_proxy app:3000
+}

@@ -1,0 +1,42 @@
+# Variante A: Es läuft noch kein Reverse Proxy auf dem Server → Caddy übernimmt 80/443
+# und holt automatisch ein Let's-Encrypt-Zertifikat für chat.ums-photo.de.
+#   docker compose up -d --build
+#
+# Variante B: Es gibt schon nginx/Traefik/Caddy → nur die App starten und dort einhängen:
+#   docker compose up -d --build app
+#   (Beispiele in deploy/nginx-chat.ums-photo.de.conf bzw. deploy/Caddyfile.snippet)
+
+services:
+  app:
+    build: .
+    image: chat-vibes-check:latest
+    restart: unless-stopped
+    env_file: .env
+    # Nur lokal erreichbar; nach außen geht es über den Reverse Proxy.
+    ports:
+      - "127.0.0.1:3000:3000"
+    read_only: true
+    tmpfs:
+      - /tmp
+      - /app/.next/cache:uid=1000,gid=1000
+    security_opt:
+      - no-new-privileges:true
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    depends_on:
+      app:
+        condition: service_healthy
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:
