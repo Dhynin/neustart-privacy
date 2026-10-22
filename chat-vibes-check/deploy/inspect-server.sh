@@ -8,6 +8,6 @@ echo "== Reverse Proxys"
 for p in nginx caddy traefik apache2 httpd; do command -v "$p" >/dev/null && echo "installiert: $p"; done
 systemctl is-active nginx caddy apache2 2>/dev/null | paste -sd' ' -
 echo "== Bekannte ums-photo.de-Hosts in Configs"
-grep -rhoE '[a-z0-9.-]*ums-photo\.de' /etc/nginx /etc/caddy /etc/traefik 2>/dev/null | sort -u
+grep -rhoE '[a-z0-9.-]*ums-photo\.de' /etc/apache2 /etc/nginx /etc/caddy /etc/traefik 2>/dev/null | sort -u
 echo "== DNS chat.ums-photo.de"; getent hosts chat.ums-photo.de || echo "kein Eintrag"
 echo "== Öffentliche IP"; curl -s https://api.ipify.org; echo

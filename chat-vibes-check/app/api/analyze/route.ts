@@ -13,7 +13,8 @@ function error(status: number, message: string) {
 }
 
 function clientIp(req: Request): string {
-  return req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || req.headers.get("x-real-ip") || "unknown";
+  // Hinter Cloudflare steht die echte Client-IP in CF-Connecting-IP.
+  return req.headers.get("cf-connecting-ip") || req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || req.headers.get("x-real-ip") || "unknown";
 }
 
 export async function POST(req: Request) {
